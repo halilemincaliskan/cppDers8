@@ -13,9 +13,9 @@ int main()
 	int number = 1;
 
 	// Kullanıcıdan alınması gereken değerleri aldım.
-	cout << "Bir n değeri giriniz :" << endl;
+	cout << "En son yazılacak sayısal değeri giriniz :" << endl;
 	cin >> n;
-	cout << "Bir row değeri giriniz :";
+	cout << "Kaç satır olucağını giriniz :";
 	cin >> row;
 
 	// Döngülerin ilkinin amacı satırı ikincisi ise sütunu dönmektir.
